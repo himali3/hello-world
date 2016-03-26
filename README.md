@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-Hi. I'm Himali. I'm studying computer science.
+This repo contains a basic hello world program in C, C++, Python and Java.
